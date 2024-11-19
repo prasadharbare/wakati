@@ -1,2 +1,8 @@
-# wakati
-API get read time of data
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
